@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+ 👨‍💻 Sobre mí
 Soy analista de ciberseguridad en formación con conocimientos en hacking ético, análisis de redes y seguridad web.  
 Actualmente estoy finalizando mi etapa formativa y preparándome para mis primeras prácticas profesionales en el sector.
 
@@ -19,29 +19,28 @@ Me interesa especialmente:
 - Investigación de ciberataques
 
 ---
-
-### 📂 Proyectos principales
+📂 Proyectos principales
 | Proyecto | Descripción |
 |----------|-------------|
-| **Proyecto Final de Ciberseguridad** | Auditoría completa en laboratorio con herramientas como Nmap, Wireshark y SQLMap. |
-| **Bitácora Técnica** | Repositorio de apuntes, investigaciones y herramientas de ciberseguridad. |
-| **ShieldNet** | Plataforma web orientada a retos de ciberseguridad tipo CTF. |
-| **Entorno OraVega** | Entorno profesional de trabajo en Linux para prácticas de ciberseguridad. |
+| Proyecto Final de Ciberseguridad** | Auditoría completa en laboratorio con herramientas como Nmap, Wireshark y SQLMap. |
+| Bitácora Técnica** | Repositorio de apuntes, investigaciones y herramientas de ciberseguridad. |
+| ShieldNet** | Plataforma web orientada a retos de ciberseguridad tipo CTF. |
+| Entorno OraVega** | Entorno profesional de trabajo en Linux para prácticas de ciberseguridad. |
 
 ---
 
 🧰 Tecnologías y herramientas
-**Lenguajes**
+Lenguajes**
 - Python
 - JavaScript
 - HTML / CSS
 - SQL
 
-**Sistemas**
+Sistemas**
 - Linux (Ubuntu, Kali Linux)
 - Windows
 
-**Herramientas de seguridad**
+Herramientas de seguridad**
 - Nmap
 - Wireshark
 - Burp Suite
